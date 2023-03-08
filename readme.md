@@ -9,7 +9,7 @@ AAAI 2023 Accepted Long Paper
       Liu, Qijiong  and
       Cao, Yi  and
       Huang, Yao  and
-      Wu, Xiaoming and
+      Wu, Xiao-Ming and
       Ding, Jiandong",
     booktitle = "Proceedings of the 37th AAAI Conference on Artificial Intelligence",
     month = feb,
